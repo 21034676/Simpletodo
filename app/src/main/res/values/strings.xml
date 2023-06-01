@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple To Do Challenge</string>
+    <string name="add">Add</string>
+    <string name="del">Delete</string>
+    <string name="clr">Clear</string>
+    <string-array name="spinnerItemsToDo">
+        <item>Add a new task</item>
+        <item>Remove a task</item>
+    </string-array>
+    <string name="hintAdd">Type in a new task here</string>
+    <string name="hintDel">Type in the index of the task to be removed</string>
+</resources>
